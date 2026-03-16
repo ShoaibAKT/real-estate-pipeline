@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+python/__pycache__/
+
+# AWS Lambda / temp
+*.zip
+*.log

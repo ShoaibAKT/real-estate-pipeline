@@ -1,0 +1,4 @@
+snowflake-connector-python
+cryptography
+elasticsearch
+python-slugify
